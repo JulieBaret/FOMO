@@ -1,5 +1,7 @@
 # Browser Add-On : "FOMO - Fear Of Missing Out!"
 
+Please, only open "FOMO" directory.
+
 ## Description :
 
 Google Chrome Add-On which allow you to receive news update on your favorite subjects. Choose a topic on your browser and get the last related article.
