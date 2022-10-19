@@ -20,3 +20,6 @@ Group
 * API calls
 * Data managing
 * JSON
+
+### Screenshot : 
+![Screenshot of the pop-up](/img/popup.png)
